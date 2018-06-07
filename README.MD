@@ -9,4 +9,6 @@ Run roll.py. Fill in options so that you get a dice roll in which:
 
 For example, say I wanted a roll that averages 7 (give or take 1), where the maximum value is about 3 more than the average and the minimum value about 3 below it (so if one possible roll found in step 1 averages 7, that roll be between about 4 and 10). I would use leniency 1, ideal average 7 and ideal min-max 3.
 
+I write dice formula in the traditional way (xdy, where x is quantity and y is number of die faces), and use 2, 4, 6, 8, 10, 12, 20, and 100 sided dice, since they're kinda the standard.
+
 Hope this makes sense, if it doesn't I'd be happy to try to explain properly!
