@@ -12,3 +12,5 @@ For example, say I wanted a roll that averages 7 (give or take 1), where the max
 I write dice formula in the traditional way (xdy, where x is quantity and y is number of die faces), and use 2, 4, 6, 8, 10, 12, 20, and 100 sided dice, since they're kinda the standard.
 
 Hope this makes sense, if it doesn't I'd be happy to try to explain properly!
+
+Oh, hey, don't want to clone this? That's cool, I put this [on repl.it](https://repl.it/@linky00/RPGDamageRollin)!
